@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "react": "next",
+    "react-dom": "next"
   }
 }

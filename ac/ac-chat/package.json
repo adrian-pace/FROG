@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "next",
     "react-d3-cloud": "^0.4.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "next"
   }
 }

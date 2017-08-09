@@ -11,9 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.6.1",
+    "react": "next",
     "react-bootstrap": "^0.31.2",
-    "react-dom": "^15.6.1",
+    "react-dom": "next",
     "react-player": "^0.20.0"
   }
 }
